@@ -1,0 +1,13 @@
+[package]
+name = "calculadora"
+edition = "2024.beta"
+
+[dependencies]
+
+[addresses]
+calculadora = "0x0"
+
+
+[dev-dependencies]
+
+[dev-addresses]
